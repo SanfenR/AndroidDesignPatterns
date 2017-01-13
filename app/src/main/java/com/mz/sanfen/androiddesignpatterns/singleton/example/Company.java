@@ -1,4 +1,4 @@
-package com.mz.sanfen.androiddesignpatterns.singleton;
+package com.mz.sanfen.androiddesignpatterns.singleton.example;
 
 import java.util.ArrayList;
 import java.util.List;

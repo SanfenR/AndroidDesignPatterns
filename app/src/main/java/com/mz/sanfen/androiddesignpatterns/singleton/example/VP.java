@@ -1,4 +1,4 @@
-package com.mz.sanfen.androiddesignpatterns.singleton;
+package com.mz.sanfen.androiddesignpatterns.singleton.example;
 
 /**
  * @author MZ
